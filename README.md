@@ -4,7 +4,7 @@
 📍 Bhopal, Madhya Pradesh
 
 ## About Me
-I am a first-year engineering student passionate about 
+I am a second-year engineering student passionate about 
 Artificial Intelligence and Machine Learning. I am currently 
 building my foundation in Python, DSA, and ML concepts.
 
